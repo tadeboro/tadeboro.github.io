@@ -25,7 +25,7 @@ Ali bo stvar izvedljiva pa je odvisno od naslednjega:
 ## Napredek
 
 Posamezna opravila, ki so bolj ali manj medsebojno neodvisna, sem skupaj
-z njihovimi pogoji spisal spodaj. Kaj pomeni rdečain zelena barva
+z njihovimi pogoji spisal spodaj. Kaj pomenita rdeča in zelena barva
 verjetno ni potrebno razlagati;)
 
 
@@ -73,7 +73,7 @@ ki sem jih našel med urejanjem.
      in otrok s kirurško boleznijo
    *  <span style="color:red">Citati morajo verjetno biti
       oštevilčeni</span>
- 4.  Mojca Grošelj Gren: Atrezija požiralnika - klinična slika,
+ 4.  Mojca Grošelj Grenc: Atrezija požiralnika - klinična slika,
      pridružene bolezni, oskrba v porodnišnici in intenzivno
      zdravljenje
  5.  Jan Grosek, Diana Gvardijančič: Hirschsprungova bolezen: sodobna
