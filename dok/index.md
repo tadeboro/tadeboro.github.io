@@ -98,40 +98,54 @@ Spodaj so našteti vsi prispevki in njihovo stanje oz. morebitne težave,
 ki sem jih našel med urejanjem. 
 
 
- 1.  Jelena Berger: Posebnosti pri anesteziji otrok
- 2.  Jelena Berger: Novosti v perioperativnem nadomeščanju tekočin
-     pri otrocih
- 3.  Metka Derganc: Podporno zdravljenje hudo bolnih novorojenčkov
-     in otrok s kirurško boleznijo
-   *  <span style="color:red">Citati morajo verjetno biti
-      oštevilčeni</span>
- 4.  Mojca Grošelj Grenc: Atrezija požiralnika - klinična slika,
-     pridružene bolezni, oskrba v porodnišnici in intenzivno
-     zdravljenje
- 5.  Jan Grosek, Diana Gvardijančič: Hirschsprungova bolezen: sodobna
-     načela zdravljenja
- 6.  Diana Gvardijančič, Aleš Tomažič: Anorektalne atrezije in
-     kontinenca
- 7.  Gorazd Kalan: Podpora z Zunajtelesno membransko oksigenacijo pri
-     novorojenčku in otroku
- 8.  Robert Kordič, Aleš Sedlar, Adnan Arafat, Bojan Tršinar:
-     Operativno zdravljenje hidronefroze zaradi pieloureterne stenoze
-     pri otrocih
- 9.  Jože Maučec: Atrezije ozkega črevesa: tip IV in njen pomen
- 10. Jernej Mekicar, Diana Gvardijančič: Razvoj otroške laparoskopske
-     kirurgije v Sloveniji
- 11. Dragica Maja Smrke, Aleš Grošelj, Dario Pogorelec, Aida Granda,
-     Anja Praprotnik, Danijela Semenič: Nekrotizirajoči fasciitis
-     kot zaplet okužbe z virusom noric pri otrocih
-   *  <span style="color:red">Barvne slike</span>
- 12. Maja Pavčnik Arnol: Okužbe krvi, povezane z osrednjimi žilnimi
-     katetri pri novorojenčku kirurškem bolniku
- 13. Aleš Sedlar: Sodoben urološki pogled na zdravljenje hipospadij
-   *  <span style="color:red">Barvne slike</span>
- 14. Albin Stritar: Novosti opeklinske kirurgije pri otrocih in
-     mladostnikih
- 15. Špela Pirtovšek Štupnik: Zdravljenje perioperativne bolečine
-     pri otrocih
- 16. Tomaž Štupnik, Tomaž Kenig: Kirurško zdravljenje zapletenih
-     parapnevmoničnih izlivov pri otrocih
+ 1.  <span style="color:green">Jelena Berger: Posebnosti pri anesteziji
+     otrok</span>
+ 2.  <span style="color:green">Jelena Berger: Novosti v perioperativnem
+     nadomeščanju tekočin pri otrocih</span>
+ 3.  <span style="color:red">Metka Derganc: Podporno zdravljenje hudo
+     bolnih novorojenčkov in otrok s kirurško boleznijo</span>
+   *  Citati morajo verjetno biti oštevilčeni
+ 4.  <span style="color:green">Mojca Grošelj Grenc: Atrezija
+     požiralnika - klinična slika, pridružene bolezni, oskrba v
+     porodnišnici in intenzivno zdravljenje</span>
+ 5.  <span style="color:red">Jan Grosek, Diana Gvardijančič:
+     Hirschsprungova bolezen: sodobna načela zdravljenja</span>
+   *  Slike preslabe kakovosti (za tisk rabim večje slike)
+   *  Slike nimajo navedenega vira
+ 6.  <span style="color:green">Diana Gvardijančič, Aleš Tomažič:
+ Anorektalne atrezije in kontinenca</span>
+ 7.  <span style="color:red">Gorazd Kalan: Podpora z Zunajtelesno
+     membransko oksigenacijo pri novorojenčku in otroku</span>
+   *  Manjka izvleček
+ 8.  <span style="color:red">Robert Kordič, Aleš Sedlar, Adnan Arafat,
+     Bojan Tršinar: Operativno zdravljenje hidronefroze zaradi
+     pieloureterne stenoze pri otrocih</span>
+   *  Izvleček je prekratek
+ 9.  <span style="color:red">Jože Maučec: Atrezije ozkega črevesa: tip
+     IV in njen pomen</span>
+   *  Sliki 1 in 2 nista poslovenjeni/prevedeni
+   *  Sliki 1 in 2 nimata navedenega vira
+ 10. <span style="color:green">Jernej Mekicar, Diana Gvardijančič:
+     Razvoj otroške laparoskopske kirurgije v Sloveniji</span>
+ 11. <span style="color:red">Dragica Maja Smrke, Aleš Grošelj, Dario
+     Pogorelec, Aida Granda, Anja Praprotnik, Danijela Semenič:
+     Nekrotizirajoči fasciitis kot zaplet okužbe z virusom noric pri
+     otrocih</span>
+   *  Barvne slike
+ 12. <span style="color:green">Maja Pavčnik Arnol: Okužbe krvi, povezane
+     z osrednjimi žilnimi katetri pri novorojenčku kirurškem
+     bolniku</span>
+ 13. <span style="color:red">Aleš Sedlar: Sodoben urološki pogled na
+     zdravljenje hipospadij</span>
+   *  Barvni sliki 2 in 3
+   *  Neposlovenjena/prevedena slika 1
+   *  Ni navedenega vira pri slikah 1, 2 in 3
+ 14. <span style="color:green">Albin Stritar: Novosti opeklinske
+     kirurgije pri otrocih in mladostnikih</span>
+ 15. <span style="color:red">Špela Pirtovšek Štupnik: Zdravljenje
+     perioperativne bolečine pri otrocih</span>
+   *  Ni navedenega vira slike 1
+   *  Slika 1 ni prevedena
+ 16. <span style="color:green">Tomaž Štupnik, Tomaž Kenig: Kirurško
+     zdravljenje zapletenih parapnevmoničnih izlivov pri otrocih</span>
 
