@@ -22,6 +22,27 @@ Ali bo stvar izvedljiva pa je odvisno od naslednjega:
    sheme/grafe/razpredelnice
 
 
+## Oblika učbenika
+
+ *  Dimenzije: 165 x 235 mm
+ *  Tisk:
+   *  vsebina: 1/1 barvno, črna, 90 g brezlesni papir
+   *  ovitek: 4/0 barvno, CMYK + 1/0 mat plastifikacija,
+              300 g mat premazni karton
+ *  Predvideno število strani: cca. 150 strani
+
+V dosedaj prejetih prispevkih se nahaja tudi nekaj barvnih slik. Te
+slike bo potrebno predhodno spremeniti v sivinske, kar bo povzročilo
+izgubo nekaterih podrobnosti, ki jih brez barv ni mogoče reproducirati.
+
+V kolikor izgube ne bodo kritično vplivale na kakovost prispevkov, bi
+celoten učbenik obdržal v sivinski obliki. Alternativno pa bi se morda
+lahko barvne materiale "zbralo" v enem delu učbenika, ki se ga nato
+natisne barvno (npr. zadnjih 16 strani bi lahko služilo kot odlagališče
+za barvne slike, reference v besedilu pa so opremljene s številko slike
+in tudi stranjo, na kateri se slika nahaja).
+
+
 ## Napredek
 
 Posamezna opravila, ki so bolj ali manj medsebojno neodvisna, sem skupaj
@@ -32,24 +53,35 @@ verjetno ni potrebno razlagati;)
 ### CIP
 
  * <span style="color:red">Notranja naslovnica</span>
- * <span style="color:red">Kolofon</span>
+ * <span style="color:green">Kolofon</span>
  * <span style="color:red">Kazalo</span>
 
 
 ### Notranja naslovnica
 
- * <span style="color:red">Naslov učbenika</span>
- * <span style="color:red">Založnik</span>
- * <span style="color:red">Morebitna dodatna vsebina</span>
+ *  <span style="color:red">Naslov učbenika</span>
+ *  <span style="color:green">Založnik</span>
+   *  glej kolofon
+ *  <span style="color:red">Morebitna dodatna vsebina</span>
 
 
 ### Kolofon
 
- * <span style="color:red">Založnik</span>
- * <span style="color:red">Urednik</span>
- * <span style="color:red">Recenzent</span>
- * <span style="color:red">Tajnica</span>
- * <span style="color:red">Naklada</span>
+ *  <span style="color:green">Založnika</span>
+   *  Klinični oddelek za otroško kirurgijo in intenzivno terapijo,
+      Kirurška klinika, Univerzitetni klinični center Ljubljana
+   *  Medicinska fakulteta Univerze v Ljubljani, Katedra za kirurgijo
+ *  <span style="color:green">Urednici</span>
+   *  Metka Derganc
+   *  Maja Pavčnik Arnol
+ *  <span style="color:green">Recenzenti</span>
+   *  Štefan Grosek
+   *  Mojca Grošelj Grenc
+   *  Vladimir Smrkolj
+ *  <span style="color:green">Tajnica</span>
+   *  Karmen Boh
+ *  <span style="color:green">Naklada</span>
+   *  350 izvodov
 
 
 ### Ostalo
@@ -91,11 +123,11 @@ ki sem jih našel med urejanjem.
  11. Dragica Maja Smrke, Aleš Grošelj, Dario Pogorelec, Aida Granda,
      Anja Praprotnik, Danijela Semenič: Nekrotizirajoči fasciitis
      kot zaplet okužbe z virusom noric pri otrocih
-   *  <span style="color:red">Barvne slike - tiskamo barvno?</span>
+   *  <span style="color:red">Barvne slike</span>
  12. Maja Pavčnik Arnol: Okužbe krvi, povezane z osrednjimi žilnimi
      katetri pri novorojenčku kirurškem bolniku
  13. Aleš Sedlar: Sodoben urološki pogled na zdravljenje hipospadij
-   *  <span style="color:red">Barvne slike - tiskamo barvno?</span>
+   *  <span style="color:red">Barvne slike</span>
  14. Albin Stritar: Novosti opeklinske kirurgije pri otrocih in
      mladostnikih
  15. Špela Pirtovšek Štupnik: Zdravljenje perioperativne bolečine
