@@ -145,7 +145,7 @@ ki sem jih našel med urejanjem.
      pediatriji</span>
  2.  <span style="color:green">Tomo Havliček: Konzervativno zdravljenje
      suprakondilarnih zlomov nadlahtnice pri otrocih</span>
- 2.  <span style="colot:green">Domagoj Jugović, Andrej Porčnik, Marjan
+ 2.  <span style="color:green">Domagoj Jugović, Andrej Porčnik, Marjan
      Koršič: Kraniosinostoze in kirurško zdravljenje</span>
  2.  <span style="color:red">Ivan Vidmar: Transport kritično bolnih
      novorojenčkov in otrok: prikaz dejavnosti</span>
