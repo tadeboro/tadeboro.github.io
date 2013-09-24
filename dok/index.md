@@ -139,6 +139,14 @@ ki sem jih našel med urejanjem.
    *  Slika 1 ni prevedena
  2.  <span style="color:green">Tomaž Štupnik, Tomaž Kenig: Kirurško
      zdravljenje zapletenih parapnevmoničnih izlivov pri otrocih</span>
+ 2.  <span style="color:green">Aida Granda: Huda poškodba glave pri
+     otrocih</span>
+ 2.  <span style="color:green">Štefan Grosek: Medicinska etika v
+     pediatriji</span>
+ 2.  <span style="color:green">Tomo Havliček: Konzervativno zdravljenje
+     suprakondilarnih zlomov nadlahtnice pri otrocih</span>
+ 2.  <span style="colot:green">Domagoj Jugović, Andrej Porčnik, Marjan
+     Koršič: Kraniosinostoze in kirurško zdravljenje</span>
  2.  <span style="color:red">Ivan Vidmar: Transport kritično bolnih
      novorojenčkov in otrok: prikaz dejavnosti</span>
    *  Ni prispevka
