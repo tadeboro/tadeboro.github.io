@@ -27,13 +27,6 @@ V dosedaj prejetih prispevkih se nahaja tudi nekaj barvnih slik. Te
 slike bo potrebno predhodno spremeniti v sivinske, kar bo povzročilo
 izgubo nekaterih podrobnosti, ki jih brez barv ni mogoče reproducirati.
 
-V kolikor izgube ne bodo kritično vplivale na kakovost prispevkov, bi
-celoten učbenik obdržal v sivinski obliki. Alternativno pa bi se morda
-lahko barvne materiale "zbralo" v enem delu učbenika, ki se ga nato
-natisne barvno (npr. zadnjih 16 strani bi lahko služilo kot odlagališče
-za barvne slike, reference v besedilu pa so opremljene s številko slike
-in tudi stranjo, na kateri se slika nahaja).
-
 
 ## Napredek
 
@@ -46,7 +39,7 @@ verjetno ni potrebno razlagati;)
 
  * <span style="color:green">Notranja naslovnica</span>
  * <span style="color:green">Kolofon</span>
- * <span style="color:red">Kazalo</span>
+ * <span style="color:orange">Kazalo</span>
 
 
 ### Notranja naslovnica
@@ -77,10 +70,10 @@ verjetno ni potrebno razlagati;)
 
 ### Ostalo
 
- * <span style="color:red">Oblikovanje platnic</span>
- * <span style="color:red">Oblikovanje vsebine</span>
- * <span style="color:red">Seznam okrajšav</span>
- * <span style="color:red">Spremna beseda</span>
+ * <span style="color:orange">Oblikovanje platnic</span>
+ * <span style="color:orange">Oblikovanje vsebine</span>
+ * <span style="color:orange">Seznam okrajšav</span>
+ * <span style="color:orange">Spremna beseda</span>
 
 
 ## Stanje posameznih prispevkov
@@ -89,31 +82,25 @@ Spodaj so našteti vsi prispevki in njihovo stanje oz. morebitne težave,
 ki sem jih našel med urejanjem. 
 
 
- 2.  <span style="color:red">Ivan Vidmar: Uvodne besede</span> - 5 min
-   *  Ni prispevka
+ 2.  <span style="color:green">Ivan Vidmar: Uvodne besede</span>
  2.  <span style="color:green">Metka Derganc: Podporno zdravljenje hudo
-     bolnih novorojenčkov in otrok s kirurško boleznijo</span> - 10 min
- 2.  <span style="color:red">Danilo Mencigar: Zdravstvena nega na
-     Kliničnem oddelku za otroško kirurgijo in intenzivno terapijo:
-     nekoč in danes</span> - 10 min
-   *  Ni prispevka
+     bolnih novorojenčkov in otrok s kirurško boleznijo</span>
  2.  <span style="color:red">Ivan Vidmar: Transport kritično bolnih
      novorojenčkov in otrok: prikaz dejavnosti</span>
    *  Ni prispevka
  2.  <span style="color:green">Diana Gvardijančič, Aleš Tomažič:
-     Anorektalne atrezije in kontinenca</span> 10 min
+     Anorektalne atrezije in kontinenca</span> 
  2.  <span style="color:red">Jan Grosek, Diana Gvardijančič:
-     Hirschsprungova bolezen: sodobna načela zdravljenja</span> - 10 min
+     Hirschsprungova bolezen: sodobna načela zdravljenja</span>
    *  Slike preslabe kakovosti (za tisk rabim večje slike)
    *  Slike nimajo navedenega vira
- 2.  <span style="color:red">Jože Maučec: Atrezije ozkega črevesa: tip
+ 2.  <span style="color:green">Jože Maučec: Atrezije ozkega črevesa: tip
      IV in njen pomen</span>
-   *  Slika 1 nima navedenega vira
  2.  <span style="color:green">Jernej Mekicar, Diana Gvardijančič:
      Razvoj otroške laparoskopske kirurgije v Sloveniji</span>
  2.  <span style="color:red">Robert Kordič, Aleš Sedlar, Adnan Arafat,
      Bojan Tršinar: Operativno zdravljenje hidronefroze zaradi
-     pieloureterne stenoze pri otrocih</span> - 10 min
+     pieloureterne stenoze pri otrocih</span>
    *  Izvleček je prekratek
  2.  <span style="color:red">Aleš Sedlar: Sodoben urološki pogled na
      zdravljenje hipospadij</span>
@@ -123,13 +110,15 @@ ki sem jih našel med urejanjem.
  2.  <span style="color:green">Jelena Berger: Posebnosti pri anesteziji
      otrok</span> - 10 min
  2.  <span style="color:green">Jelena Berger: Novosti v perioperativnem
-     nadomeščanju tekočin pri otrocih</span> - 10 min
+     nadomeščanju tekočin pri otrocih</span>
  2.  <span style="color:red">Špela Pirtovšek Štupnik: Zdravljenje
      perioperativne bolečine pri otrocih</span>
    *  Ni navedenega vira slike 1
    *  Slika 1 ni prevedena
  2.  <span style="color:green">Tomaž Štupnik, Tomaž Kenig: Kirurško
      zdravljenje zapletenih parapnevmoničnih izlivov pri otrocih</span>
+ 2.  <span sytle="color:green">Matevž Srpčič: Kirurško zdravljenje
+     gastroezofagealne refluksne bolezni pri otrocih</span>
  2.  <span style="color:green">Mojca Grošelj Grenc: Atrezija
      požiralnika - klinična slika, pridružene bolezni, oskrba v
      porodnišnici in intenzivno zdravljenje</span> - 10 min
@@ -139,16 +128,16 @@ ki sem jih našel med urejanjem.
      Koršič: Kraniosinostoze in kirurško zdravljenje</span>
  2.  <span style="color:green">Aida Granda: Huda poškodba glave pri
      otrocih</span>
- 2.  <span style="color:red">Robert Blumauer: ?</span>
-   *  Ni prispevka
+ 2.  <span style="color:red">Robert Blumauer: Kirurško zdravljenje
+     transpozicije velikih arterij (2007-2012)</span>
+   *  Manjka nekaj številk v prispevku
  2.  <span style="color:red">Gorazd Kalan: Podpora z Zunajtelesno
      membransko oksigenacijo pri novorojenčku in otroku</span>
    *  Manjka izvleček
- 2.  <span style="color:red">Dragica Maja Smrke, Aleš Grošelj, Dario
+ 2.  <span style="color:green">Dragica Maja Smrke, Aleš Grošelj, Dario
      Pogorelec, Aida Granda, Anja Praprotnik, Danijela Semenič:
      Nekrotizirajoči fasciitis kot zaplet okužbe z virusom noric pri
      otrocih</span>
-   *  Barvne slike
  2.  <span style="color:green">Maja Pavčnik Arnol: Okužbe krvi, povezane
      z osrednjimi žilnimi katetri pri novorojenčku kirurškem
      bolniku</span>
