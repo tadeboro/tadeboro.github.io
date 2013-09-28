@@ -117,8 +117,9 @@ ki sem jih našel med urejanjem.
    *  Slika 1 ni prevedena
  2.  <span style="color:green">Tomaž Štupnik, Tomaž Kenig: Kirurško
      zdravljenje zapletenih parapnevmoničnih izlivov pri otrocih</span>
- 2.  <span sytle="color:green">Matevž Srpčič: Kirurško zdravljenje
+ 2.  <span style="color:orange">Matevž Srpčič: Kirurško zdravljenje
      gastroezofagealne refluksne bolezni pri otrocih</span>
+   *  Ali naj slike računalniško izrišem ali pustim originalno risbo?
  2.  <span style="color:green">Mojca Grošelj Grenc: Atrezija
      požiralnika - klinična slika, pridružene bolezni, oskrba v
      porodnišnici in intenzivno zdravljenje</span> - 10 min
@@ -131,6 +132,7 @@ ki sem jih našel med urejanjem.
  2.  <span style="color:red">Robert Blumauer: Kirurško zdravljenje
      transpozicije velikih arterij (2007-2012)</span>
    *  Manjka nekaj številk v prispevku
+   *  Slika ni poslovenjena
  2.  <span style="color:red">Gorazd Kalan: Podpora z Zunajtelesno
      membransko oksigenacijo pri novorojenčku in otroku</span>
    *  Manjka izvleček
