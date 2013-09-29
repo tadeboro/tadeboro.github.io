@@ -85,9 +85,8 @@ ki sem jih našel med urejanjem.
  2.  <span style="color:green">Ivan Vidmar: Uvodne besede</span>
  2.  <span style="color:green">Metka Derganc: Podporno zdravljenje hudo
      bolnih novorojenčkov in otrok s kirurško boleznijo</span>
- 2.  <span style="color:red">Ivan Vidmar: Transport kritično bolnih
+ 2.  <span style="color:green">Ivan Vidmar: Transport kritično bolnih
      novorojenčkov in otrok: prikaz dejavnosti</span>
-   *  Ni prispevka
  2.  <span style="color:green">Diana Gvardijančič, Aleš Tomažič:
      Anorektalne atrezije in kontinenca</span> 
  2.  <span style="color:red">Jan Grosek, Diana Gvardijančič:
@@ -101,14 +100,13 @@ ki sem jih našel med urejanjem.
  2.  <span style="color:red">Robert Kordič, Aleš Sedlar, Adnan Arafat,
      Bojan Tršinar: Operativno zdravljenje hidronefroze zaradi
      pieloureterne stenoze pri otrocih</span>
-   *  Izvleček je prekratek
+   *  Izvleček je potrebno poenotiti (trenutno je razsekan na dele)
  2.  <span style="color:red">Aleš Sedlar: Sodoben urološki pogled na
      zdravljenje hipospadij</span>
-   *  Barvni sliki 2 in 3
    *  Neposlovenjena/prevedena slika 1
    *  Ni navedenega vira pri slikah 1, 2 in 3
  2.  <span style="color:green">Jelena Berger: Posebnosti pri anesteziji
-     otrok</span> - 10 min
+     otrok</span>
  2.  <span style="color:green">Jelena Berger: Novosti v perioperativnem
      nadomeščanju tekočin pri otrocih</span>
  2.  <span style="color:red">Špela Pirtovšek Štupnik: Zdravljenje
