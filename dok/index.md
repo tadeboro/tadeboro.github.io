@@ -38,11 +38,9 @@ izgubo nekaterih podrobnosti, ki jih brez barv ni mogoče reproducirati.
  * <span style="color:orange">Spremna beseda</span>
 
 
-## Stanje posameznih prispevkov
+## Stanje učbenika oz. posameznih prispevkov
 
-Spodaj so našteti vsi prispevki in njihovo stanje oz. morebitne težave,
-ki sem jih našel med urejanjem. 
-
+[Celoten učbenik](otroska-kirurgija.pdf)
 
  2.  [Ivan Vidmar: Uvodne besede](otroska-kirurgija-00.pdf)
  2.  [Metka Derganc: Podporno zdravljenje hudo bolnih novorojenčkov in otrok s kirurško boleznijo](otroska-kirurgija-01.pdf)
@@ -63,10 +61,10 @@ ki sem jih našel med urejanjem.
  2.  [Tomo Havliček: Konzervativno zdravljenje suprakondilarnih zlomov nadlahtnice pri otrocih](otroska-kirurgija-15.pdf)
  2.  [Domagoj Jugović, Andrej Porčnik, Marjan Koršič: Kraniosinostoze in kirurško zdravljenje](otroska-kirurgija-16.pdf)
  2.  [Aida Granda: Huda poškodba glave pri otrocih](otroska-kirurgija-17.pdf)
- 2.  Robert Blumauer: Kirurško zdravljenje transpozicije velikih arterij (2007-2012)
- 2.  Gorazd Kalan: Podpora z Zunajtelesno membransko oksigenacijo pri novorojenčku in otroku
- 2.  Dragica Maja Smrke, Aleš Grošelj, Dario Pogorelec, Aida Granda, Anja Praprotnik, Danijela Semenič: Nekrotizirajoči fasciitis kot zaplet okužbe z virusom noric pri otrocih
- 2.  Maja Pavčnik Arnol: Okužbe krvi, povezane z osrednjimi žilnimi katetri pri novorojenčku kirurškem bolniku
- 2.  Albin Stritar: Novosti opeklinske kirurgije pri otrocih in mladostnikih
- 2.  Štefan Grosek: Medicinska etika v pediatriji
+ 2.  [Robert Blumauer: Kirurško zdravljenje transpozicije velikih arterij (2007-2012)](otroska-kirurgija-18.pdf)
+ 2.  [Gorazd Kalan: Podpora z Zunajtelesno membransko oksigenacijo pri novorojenčku in otroku](otroska-kirurgija-19.pdf)
+ 2.  [Dragica Maja Smrke, Aleš Grošelj, Dario Pogorelec, Aida Granda, Anja Praprotnik, Danijela Semenič: Nekrotizirajoči fasciitis kot zaplet okužbe z virusom noric pri otrocih](otroska-kirurgija-20.pdf)
+ 2.  [Maja Pavčnik Arnol: Okužbe krvi, povezane z osrednjimi žilnimi katetri pri novorojenčku kirurškem bolniku](otroska-kirurgija-21.pdf)
+ 2.  [Albin Stritar: Novosti opeklinske kirurgije pri otrocih in mladostnikih](otroska-kirurgija-22.pdf)
+ 2.  [Štefan Grosek: Medicinska etika v pediatriji](otroska-kirurgija-23.pdf)
 
