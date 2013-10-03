@@ -61,8 +61,8 @@ ki sem jih našel med urejanjem.
  2.  [Matevž Srpčič: Kirurško zdravljenje gastroezofagealne refluksne bolezni pri otrocih](otroska-kirurgija-13.pdf)
  2.  [Mojca Grošelj Grenc: Atrezija požiralnika - klinična slika, pridružene bolezni, oskrba v porodnišnici in intenzivno zdravljenje](otroska-kirurgija-14.pdf)
  2.  [Tomo Havliček: Konzervativno zdravljenje suprakondilarnih zlomov nadlahtnice pri otrocih](otroska-kirurgija-15.pdf)
- 2.  Domagoj Jugović, Andrej Porčnik, Marjan Koršič: Kraniosinostoze in kirurško zdravljenje
- 2.  Aida Granda: Huda poškodba glave pri otrocih
+ 2.  [Domagoj Jugović, Andrej Porčnik, Marjan Koršič: Kraniosinostoze in kirurško zdravljenje](otroska-kirurgija-16.pdf)
+ 2.  [Aida Granda: Huda poškodba glave pri otrocih](otroska-kirurgija-17.pdf)
  2.  Robert Blumauer: Kirurško zdravljenje transpozicije velikih arterij (2007-2012)
  2.  Gorazd Kalan: Podpora z Zunajtelesno membransko oksigenacijo pri novorojenčku in otroku
  2.  Dragica Maja Smrke, Aleš Grošelj, Dario Pogorelec, Aida Granda, Anja Praprotnik, Danijela Semenič: Nekrotizirajoči fasciitis kot zaplet okužbe z virusom noric pri otrocih
