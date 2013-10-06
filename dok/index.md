@@ -1,44 +1,9 @@
 # Zbornik otroške kirugije
 
-Na tej strani lahko spremljate napredek izdelave zbornika. Stanje se bo
-sproti osveževalo.
+Tu je na voljo celoten učbenik. Poglavja so na voljo za prenos tudi
+posamič.
 
-
-## Rokovnik
-
-Spodaj so spisani kritični dogodki in njihovi roki.
-
- * __30.9.2013__ - oddaja prošnje za izdajo CIP-a
- * __3.10.2013__ - prejem recenzirane kopije vsebine
- * __4.10.2013__ - oddaja končnega izdelka v tisk
- * __10.10.2013__ - prevzem učbenika
-
-
-## Oblika učbenika
-
- *  Dimenzije: 165 x 235 mm
- *  Tisk:
-   *  vsebina: 1/1 barvno, črna, 90 g brezlesni papir
-   *  ovitek: 4/0 barvno, CMYK + 1/0 mat plastifikacija,
-              300 g mat premazni karton
- *  Predvideno število strani: cca. 150 strani
-
-V dosedaj prejetih prispevkih se nahaja tudi nekaj barvnih slik. Te
-slike bo potrebno predhodno spremeniti v sivinske, kar bo povzročilo
-izgubo nekaterih podrobnosti, ki jih brez barv ni mogoče reproducirati.
-
-
-## Napredek
-
-### Ostalo
-
- * <span style="color:orange">Oblikovanje platnic</span>
- * <span style="color:green">Oblikovanje vsebine</span>
- * <span style="color:green">Seznam okrajšav</span>
- * <span style="color:orange">Spremna beseda</span>
-
-
-## Stanje učbenika oz. posameznih prispevkov
+[Ovitek učbenika](otroska-kirurgija-ovitek.pdf)
 
 [Celoten učbenik](otroska-kirurgija.pdf)
 
