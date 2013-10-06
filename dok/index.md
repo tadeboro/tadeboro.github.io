@@ -3,7 +3,9 @@
 Tu je na voljo celoten učbenik. Poglavja so na voljo za prenos tudi
 posamič.
 
-[Ovitek učbenika](otroska-kirurgija-ovitek.pdf)
+[Ovitek učbenika (otroška slika)](otroska-kirurgija-ovitek-slika.pdf)
+
+[Ovitek učbenika (šiv)](otroska-kirurgija-ovitek-siv.pdf)
 
 [Celoten učbenik](otroska-kirurgija.pdf)
 
