@@ -10,9 +10,10 @@ zunanje informacije, za zaključek oranžnih pa lahko poskrbim sam.
 Spodaj so našteti datumi, do katerih je potrebno zaključiti posamezna
 opravila.
 
- *  **25. 11. 2013** - oddaja vloge za pridobitev CIP
- *  **27. 11. 2013** - prejem recenziranih prispevkov
- *  **30. 11. 2013 zjutraj** - oddaja učbenika v tisk
+ *  **25. 10. 2013** - oddaja vloge za pridobitev CIP
+ *  **27. 10. 2013** - prejem recenziranih prispevkov
+ *  **30. 10. 2013 zjutraj** - oddaja učbenika v tisk
+ *  **7. 11. 2013** - dostava učbenika v UKC
 
 Rok za prejem recenziranih prispevkov je skrajna meja. Glede na to, da
 bom za postavitev učbenika v tem primeru imel le 48 ur, bo možnosti za
