@@ -45,7 +45,7 @@ potrebujejo recenzijo, rdečih pa nimam.
 3.  <span style="color:blue">Branka Stirn Kranjc: Očesne poškodbe pri otroku</span>
 4.  <span style="color:blue">Manca Tekavčič Pompe: Oteklina vek pri otrocih</span>
 5.  <span style="color:blue">Anže Kristan, Matevž Tomaževič, Radoš Vidmar: Poškodbe medenice pri otrocih</span>
-6.  <span style="color:orange">Marko Pokorn: Protimikrobno zdravljenje pri urgentnih stanjih</span>
+6.  <span style="color:red">Marko Pokorn: Otrok z vročino – ali lahko prevzamemo britanske smernice?</span>
 7.  <span style="color:red">Aida Granda, Nina Bratanič: Somatska življenjska ogroženost mladostnikov z motnjami hranjenja</span>
 8.  <span style="color:red">Robert Kordič: Ektopična ureterokela pri dojenčici – prikaz primera</span>
 9.  <span style="color:red">Gorazd Mlakar: Kakšne podatke dobimo s preiskavo tkivne oksigenacije z infrardečo spektroskopijo?</span>
@@ -63,16 +63,14 @@ potrebujejo recenzijo, rdečih pa nimam.
 21. <span style="color:orange">Tatjana Grmek Martinjaš, Jona Rakuš: Kdaj otroka peljemo k zdravniku in kdaj ga zdravnik napoti v bolnišnico</span>
 22. <span style="color:orange">Štefan Grosek: Respiratorni infekti pri otrocih – ukrepi zdravstvenih delavcev v intenzivni terapiji</span>
 23. <span style="color:orange">Maja Pavčnik Arnol: Zakaj otroci danes umirajo – prikaz bolezni</span>
-24. <span style="color:blue">Anže Kristan: Oskrba poškodovane medenice</span>
+5.  <span style="color:blue">Anže Kristan, Matevž Tomaževič, Radoš Vidmar: Poškodbe medenice pri otrocih</span>
 25. <span style="color:orange">Denis Gorjup: Odzivni čas – reševanje na terenu</span>
 26. <span style="color:blue">Vesna Medvedšek Zakojč, Minja Petrovič: Kako otroku zagotoviti vensko pot</span>
-27. <span style="color:blue">Danijela Milanović: Pomen pravšnje komunikacije s starši bolnih otrok</span>
+27. <span style="color:orange">Danijela Milanović: Pomen pravšnje komunikacije s starši bolnih otrok</span>
 28. <span style="color:blue">Marjanca Kovše, Štefan Grosek: Otrokove razvojne značilnosti in odgovor na stres</span>
 29. <span style="color:blue">Danilo Mencigar: Bolnišnica brez papirjev</span>
 
 
 ## Prispevki, ki jih ni bilo v preliminarnih programih
 
-1.  <span style="color:orange">Tomaž Križnar: Primarna  in terminalna apneja pri novorojenčku – oživljanje v porodni sobi</span>
-2.  <span style="color:orange">Irena Komatar: Triaža v primarni zdravstveni ustanovi</span>
 3.  <span style="color:blue">Barbara Šajina Stritar: Transport in utero v Porodnišnici Ljubljana</span>
