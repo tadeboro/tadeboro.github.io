@@ -32,7 +32,12 @@ za tisk je precej časovno potratna).
     *  <span style="color:red">prispevki</span>
  3.  Oblikovanje
     *  <span style="color:red">oblikovanje vsebine</span>
+       *  [Vzorec 1](kbo-2013-sample-01.pdf)
+       *  [Vzorec 2](kbo-2013-sample-02.pdf)
+       *  [Vzorec 3](kbo-2013-sample-03.pdf)
     *  <span style="color:red">oblikovanje ovitka</span>
+       *  [Vzorec 1](sample-01.pdf)
+       *  [Vzorec 2](sample-01a.pdf)
 
 
 ## Prispevki
