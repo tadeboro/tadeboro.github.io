@@ -64,8 +64,8 @@ potrebujejo recenzijo, rdečih pa nimam.
 17. <span style="color:red">Minja Petrovič, Ivan Vidmar: Vzdrževanje in nadzor opreme za nujno reševanje otrok</span>
 18. <span style="color:red">Ivan Vidmar: Kdo je kdo v reanimaciji</span>
 19. <span style="color:orange">Matjana Koren: Oskrba dihalnih poti z enostavnimi pripomočki in nadihovanje z dihalnim balonom preko maske</span>
-20. <span style="color:blue">Mojca Grošelj Grenc: Motnje zavesti – ukrepi zdravstvenih delavcev</span>
-21. <span style="color:orange">Tatjana Grmek Martinjaš, Jona Rakuš: Kdaj otroka peljemo k zdravniku in kdaj ga zdravnik napoti v bolnišnico</span>
+20. <span style="color:orange">Mojca Grošelj Grenc: Motnje zavesti – ukrepi zdravstvenih delavcev</span>
+21. <span style="color:blue">Tatjana Grmek Martinjaš, Jona Rakuš: Kdaj otroka peljemo k zdravniku in kdaj ga zdravnik napoti v bolnišnico</span>
 22. <span style="color:orange">Štefan Grosek: Respiratorni infekti pri otrocih – ukrepi zdravstvenih delavcev v intenzivni terapiji</span>
 23. <span style="color:orange">Maja Pavčnik Arnol: Zakaj otroci danes umirajo – prikaz bolezni</span>
 5.  <span style="color:blue">Anže Kristan, Matevž Tomaževič, Radoš Vidmar: Poškodbe medenice pri otrocih</span>
