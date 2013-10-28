@@ -45,9 +45,9 @@ za tisk je precej časovno potratna).
 Zeleni prispevki so končani, oranžne moram samo še staviti, modri
 potrebujejo recenzijo, rdečih pa nimam.
 
-1.  <span style="color:blue">Ivan Vidmar: Uvodne besede</span>
-2.  <span style="color:blue">Metka Derganc, Mojca Grošelj Grenc, Ivan Vidmar: Oživljanje kritično bolnega otroka nekoč in danes</span>
-3.  <span style="color:blue">Branka Stirn Kranjc: Očesne poškodbe pri otroku</span>
+1.  <span style="color:orange">Ivan Vidmar: Uvodne besede</span>
+2.  <span style="color:orange">Metka Derganc, Mojca Grošelj Grenc, Ivan Vidmar: Oživljanje kritično bolnega otroka nekoč in danes</span>
+3.  <span style="color:orange">Branka Stirn Kranjc: Očesne poškodbe pri otroku</span>
 4.  <span style="color:blue">Manca Tekavčič Pompe: Oteklina vek pri otrocih</span>
 5.  <span style="color:blue">Anže Kristan, Matevž Tomaževič, Radoš Vidmar: Poškodbe medenice pri otrocih</span>
 6.  <span style="color:red">Marko Pokorn: Otrok z vročino – ali lahko prevzamemo britanske smernice?</span>
@@ -56,16 +56,15 @@ potrebujejo recenzijo, rdečih pa nimam.
 9.  <span style="color:red">Gorazd Mlakar: Kakšne podatke dobimo s preiskavo tkivne oksigenacije z infrardečo spektroskopijo?</span>
 10. <span style="color:orange">Mojca Grošelj Grenc: Celovitejša in hitrejša obravnava kritično ogroženega otroka z motnjami koagulacije</span>
 11. <span style="color:orange">Maja Pavčnik Arnol: Pregled življenjsko ogroženih otrok s poškodbami v ljubljanski regiji</span>
-12. <span style="color:blue">Ivan Vidmar: Prvi posredovalec pri oživljanju otroka</span>
+12. <span style="color:orange">Ivan Vidmar: Prvi posredovalec pri oživljanju otroka</span>
 13. <span style="color:red">Gorazd Kalan: Transport kritično bolnih novorojenčkov (pregled stanja)</span>
 14. <span style="color:orange">Tomaž Križnar: Primerjava nedonošenčkov po maternalnem transportu in po neonatalnem transportu v neonatalni intenzivni enoti porodnišnice Ljubljana</span>
 15. <span style="color:blue">Štefan Grosek, Nejc Snedec, Matjaž Klemenc, Alojz Ihan: Ocenjevanje stresa pri transportiranih novorojenčkih</span>
-16. <span style="color:red">Minja Petrovič: Uvodne besede</span>
-17. <span style="color:red">Minja Petrovič, Ivan Vidmar: Vzdrževanje in nadzor opreme za nujno reševanje otrok</span>
+17. <span style="color:orange">Minja Petrovič, Ivan Vidmar: Vzdrževanje in nadzor opreme za nujno reševanje otrok</span>
 18. <span style="color:red">Ivan Vidmar: Kdo je kdo v reanimaciji</span>
 19. <span style="color:orange">Matjana Koren: Oskrba dihalnih poti z enostavnimi pripomočki in nadihovanje z dihalnim balonom preko maske</span>
 20. <span style="color:orange">Mojca Grošelj Grenc: Motnje zavesti – ukrepi zdravstvenih delavcev</span>
-21. <span style="color:blue">Tatjana Grmek Martinjaš, Jona Rakuš: Kdaj otroka peljemo k zdravniku in kdaj ga zdravnik napoti v bolnišnico</span>
+21. <span style="color:orange">Tatjana Grmek Martinjaš, Jona Rakuš: Kdaj otroka peljemo k zdravniku in kdaj ga zdravnik napoti v bolnišnico</span>
 22. <span style="color:orange">Štefan Grosek: Respiratorni infekti pri otrocih – ukrepi zdravstvenih delavcev v intenzivni terapiji</span>
 23. <span style="color:orange">Maja Pavčnik Arnol: Zakaj otroci danes umirajo – prikaz bolezni</span>
 5.  <span style="color:blue">Anže Kristan, Matevž Tomaževič, Radoš Vidmar: Poškodbe medenice pri otrocih</span>
@@ -73,9 +72,5 @@ potrebujejo recenzijo, rdečih pa nimam.
 26. <span style="color:blue">Vesna Medvedšek Zakojč, Minja Petrovič: Kako otroku zagotoviti vensko pot</span>
 27. <span style="color:orange">Danijela Milanović: Pomen pravšnje komunikacije s starši bolnih otrok</span>
 28. <span style="color:blue">Marjanca Kovše, Štefan Grosek: Otrokove razvojne značilnosti in odgovor na stres</span>
-29. <span style="color:blue">Danilo Mencigar: Bolnišnica brez papirjev</span>
+29. <span style="color:orange">Danilo Mencigar: Bolnišnica brez papirjev</span>
 
-
-## Prispevki, ki jih ni bilo v preliminarnih programih
-
-3.  <span style="color:blue">Barbara Šajina Stritar: Transport in utero v Porodnišnici Ljubljana</span>
