@@ -57,7 +57,7 @@ Modri prispevki (s povezavo na dejanski dokument) so končani, oranžne moram sa
 14. <span style="color:orange">Tomaž Križnar: Primerjava nedonošenčkov po maternalnem transportu in po neonatalnem transportu v neonatalni intenzivni enoti porodnišnice Ljubljana</span>
 15. <span style="color:orange">Štefan Grosek, Nejc Snedec, Matjaž Klemenc, Alojz Ihan: Ocenjevanje stresa pri transportiranih novorojenčkih</span>
 17. <span style="color:orange">Minja Petrovič, Ivan Vidmar: Vzdrževanje in nadzor opreme za nujno reševanje otrok</span>
-18. <span style="color:red">Ivan Vidmar: Kdo je kdo v reanimaciji</span>
+18. <span style="color:orange">Ivan Vidmar: Kdo je kdo v reanimaciji</span>
 19. <span style="color:orange">Matjana Koren: Oskrba dihalnih poti z enostavnimi pripomočki in nadihovanje z dihalnim balonom preko maske</span>
 20. <span style="color:orange">Mojca Grošelj Grenc: Motnje zavesti – ukrepi zdravstvenih delavcev</span>
 21. <span style="color:orange">Tatjana Grmek Martinjaš, Jona Rakuš: Kdaj otroka peljemo k zdravniku in kdaj ga zdravnik napoti v bolnišnico</span>
