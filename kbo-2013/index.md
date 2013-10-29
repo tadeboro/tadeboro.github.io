@@ -39,8 +39,7 @@ za tisk je precej časovno potratna).
 
 ## Prispevki
 
-Zeleni prispevki so končani, oranžne moram samo še staviti, modri
-potrebujejo recenzijo, rdečih pa nimam.
+Modri prispevki (s povezavo na dejanski dokument) so končani, oranžne moram samo še staviti, rdečih pa nimam.
 
 1.  [Ivan Vidmar: Uvodne besede](kbo-2013-00.pdf)
 2.  [Metka Derganc, Mojca Grošelj Grenc, Ivan Vidmar: Oživljanje kritično bolnega otroka nekoč in danes](kbo-2013-01.pdf)
