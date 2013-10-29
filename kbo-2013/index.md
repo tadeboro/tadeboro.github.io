@@ -42,11 +42,11 @@ za tisk je precej časovno potratna).
 Zeleni prispevki so končani, oranžne moram samo še staviti, modri
 potrebujejo recenzijo, rdečih pa nimam.
 
-1.  <span style="color:orange">Ivan Vidmar: Uvodne besede</span>
-2.  <span style="color:orange">Metka Derganc, Mojca Grošelj Grenc, Ivan Vidmar: Oživljanje kritično bolnega otroka nekoč in danes</span>
-3.  <span style="color:orange">Branka Stirn Kranjc: Očesne poškodbe pri otroku</span>
-4.  <span style="color:orange">Manca Tekavčič Pompe: Oteklina vek pri otrocih</span>
-5.  <span style="color:orange">Anže Kristan, Matevž Tomaževič, Radoš Vidmar: Poškodbe medenice pri otrocih</span>
+1.  [Ivan Vidmar: Uvodne besede](kbo-2013-00.pdf)
+2.  [Metka Derganc, Mojca Grošelj Grenc, Ivan Vidmar: Oživljanje kritično bolnega otroka nekoč in danes](kbo-2013-01.pdf)
+3.  [Branka Stirn Kranjc: Očesne poškodbe pri otroku](kbo-2013-02.pdf)
+4.  [Manca Tekavčič Pompe: Oteklina vek pri otrocih](kbo-2013-03.pdf)
+5.  [Anže Kristan, Matevž Tomaževič, Radoš Vidmar: Poškodbe medenice pri otrocih](kbo-2013-04.pdf)
 6.  <span style="color:red">Marko Pokorn: Otrok z vročino – ali lahko prevzamemo britanske smernice?</span>
 7.  <span style="color:red">Aida Granda, Nina Bratanič: Somatska življenjska ogroženost mladostnikov z motnjami hranjenja</span>
 8.  <span style="color:red">Robert Kordič: Ektopična ureterokela pri dojenčici – prikaz primera</span>
