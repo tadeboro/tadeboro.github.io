@@ -43,6 +43,7 @@ To je skoraj stavljen učbenik. Manjka le še CIP in pa seznam sponzorjej
 oz. oglasov, ki jih bom dobil naknadno.
 
 [Zdravniški del](kbo-2013-vsebina-01.pdf)
+
 [Sestrski del](kbo-2013-vsebina-02.pdf)
 
 
