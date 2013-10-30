@@ -29,12 +29,21 @@ za tisk je precej časovno potratna).
     *  <span style="color:green">kolofon</span>
     *  <span style="color:green">kazalo</span>
  2.  Vsebina
-    *  <span style="color:red">prispevki</span>
+    *  <span style="color:green">prispevki</span>
  3.  Oblikovanje
     *  <span style="color:green">oblikovanje vsebine</span>
        *  [Vzorec 3](kbo-2013-sample-03.pdf)
     *  <span style="color:green">oblikovanje ovitka</span>
        *  [Vzorec 2](sample-01a.pdf)
+
+
+## Stavljen učbenik
+
+To je skoraj stavljen učbenik. Manjka le še CIP in pa seznam sponzorjej
+oz. oglasov, ki jih bom dobil naknadno.
+
+[Zdravniški del](kbo-2013-vsebina-01.pdf)
+[Sestrski del](kbo-2013-vsebina-02.pdf)
 
 
 ## Prispevki
