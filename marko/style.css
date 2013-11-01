@@ -1,0 +1,73 @@
+body
+{
+  margin: 0;
+  background-color: blue;
+}
+
+#wrapper
+{
+  width: 940px;
+  margin: 0 auto;
+  background-color: red;
+}
+
+header
+{
+  height: 310px;
+  background-color: green;
+  position: relative;
+}
+
+header nav
+{
+  position: absolute;
+  top: 310px;
+  left: 0;
+  right: 0;
+  background-color: yellow;
+}
+
+header ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+header li
+{
+  float: right;
+}
+
+header a
+{
+  display: block;
+  width: 100px;
+  text-align: center;
+}
+
+section nav
+{
+  position: absolute;
+  left: 0;
+  width: 240px;
+  background-color: orange;
+}
+
+section nav ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+section
+{
+  position: relative;
+  background-color: white;
+}
+
+section.with-nav
+{
+  padding-left: 250px;
+}
