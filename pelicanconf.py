@@ -10,6 +10,7 @@ DEFAULT_DATE_FORMAT = "%Y-%m-%d"
 
 SLUGIFY_SOURCE = "basename"
 
+STATIC_PATHS = [""]
 DIRECT_TEMPLATES = ["index", "tags"]
 TAGS_SAVE_AS = "tags/index.html"
 for i in ("article", "tag"):

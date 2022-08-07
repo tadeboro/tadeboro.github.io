@@ -2,14 +2,14 @@
 <html lang="{{ DEFAULT_LANG }}">
 <head>
   <title>{{ article.title | striptags }}</title>
-  <meta charset="utf-8" />
+  <meta charset="utf-8">
   <style>
     html { font-size: 20px; }
     body { padding: 2em; margin: auto; max-width: 70ch; min-width: 20ch; line-height: 1.3; }
+    code { font-size: 80%; padding: 0.2em; background-color: LightGray; }
+    pre { font-size: 80%; padding: 1em; background-color: LightGray; }
   </style>
-  {% for tag in article.tags %}
-  <meta name="tags" content="{{tag}}" />
-  {% endfor %}
+  <meta name="keywords" content="{{ article.tags | join(',') }}">
 </head>
 
 <body>
